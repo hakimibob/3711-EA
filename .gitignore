@@ -1,0 +1,67 @@
+```
+# Compiled and binary files
+*.mq5
+*.ex5
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+*.exe
+
+# Build artifacts
+*.hst
+*.fxt
+*.csv
+*.log
+
+# MT5/MT4 specific
+tester/
+history/
+profiles/
+config/
+*.set
+*.sub
+*.ex4
+
+# Dependencies
+MQL5/Libraries/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Python specific (if present)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+```
