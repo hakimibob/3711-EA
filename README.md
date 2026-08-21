@@ -54,3 +54,19 @@ No open-source license is included yet. Without a license, the code remains all 
 ## Risk Notice
 
 This EA is research code for technical backtesting and forward testing. It does not guarantee profit. Test thoroughly before using it on a live account.
+
+---
+
+## ☕ Buy Me a Coffee
+
+If you find **3711 Single EA** useful for your trading analysis, journaling, or social media content, consider supporting the development with a coffee! Your support helps keep this tool free and updated with new features.
+
+### 👉 Support Here: [https://sociabuzz.com/hakimibob/support](https://sociabuzz.com/hakimibob/support)
+
+Your contributions directly support:
+- 🛠️ Ongoing development and bug fixes
+- ✨ New features and improvements
+- 📚 Documentation and community support
+- 🔧 Maintenance and updates
+
+Every coffee counts! Thank you for being part of this journey. 🙏
